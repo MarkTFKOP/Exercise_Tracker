@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,MACE,iBAAkB,CAClB,UAAW,CACX,WACF,CACA,UACE,iBACF","file":"main.d0486d62.chunk.css","sourcesContent":[".main {\r\n  position: absolute;\r\n  width: 100%;\r\n  height: 100%;\r\n}\r\n.main div {\r\n  padding-left: 10px;\r\n}\r\n"]}
